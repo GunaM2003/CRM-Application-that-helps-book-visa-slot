@@ -1,4 +1,4 @@
-# CRM-Application-that-helps-book-visa-slot
+# CRM-Application-that-helps-to-book-a-visa-slot
 Team leader   -https://trailblazer.me/id/gunam14
 Team member 1 -https://trailblazer.me/id/deepm86
 Team member 2 -https://trailblazer.me/id/bdu120umat1006
